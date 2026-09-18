@@ -1,4 +1,4 @@
-Launch Amazon Linux 2023 , t2.micro
+Launch Amazon Linux 2023 , t3.micro
 
 Attach a IAM ROLE TE=EC2, Permisions = admin
 
